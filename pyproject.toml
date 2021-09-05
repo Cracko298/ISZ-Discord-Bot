@@ -2,7 +2,7 @@
 name = "repl_python3_Ice-Station-Z-Bot"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <rfddfd5567@gmail.com>"]
+authors = ["Cracktus Heinkel <rfddfd5567@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
