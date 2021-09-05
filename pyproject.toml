@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "repl_python3_Ice-Station-Z-Bot"
 version = "0.1.0"
-description = ""
+description = "An open-source bot based off of Discord's Python API. Made for Ice Station Z Server(s)/Guild(s)."
 authors = ["Cracktus Heinkel <rfddfd5567@gmail.com>"]
 
 [tool.poetry.dependencies]
